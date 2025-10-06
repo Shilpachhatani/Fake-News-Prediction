@@ -105,7 +105,7 @@ My approach to fake news prediction involved the following steps:
 
 ```bash
 # 1. Clone the repository 
-git clone https://github.com/AhsanNFt/Fake_News_Prediction.git
+git clone https://github.com/Shilpachhatani/Fake-News-Prediction.git
 
 # 2. Navigate to the project directory
 cd Fake_News_Prediction
@@ -122,7 +122,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: `AhsanNFt`
-- Email: syedahsan0991@gmail.com.
+- GitHub: `Shilpachhatani`
+- Email: shilpachhatani669@gmail.com.
 
 
